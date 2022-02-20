@@ -1,17 +1,13 @@
-// The LoggingCompany program implements an application that
-// gets input from the user and determines the max number of
-// logs that can be carried on a 1100kg truck.
-//
-// @author  Ina Tolo
-// @version 1.0
-// @since   2022-2-17
-
 import java.util.Scanner;
 
 /**
- * The class begins here.
+ * The LoggingCompany program implements an application that
+ * gets input from the user and determines the max number of
+ * logs that can be carried on a 1100kg truck.
  *
- * @return nothing.
+ * @author  Ina Tolo
+ * @version 1.0
+ * @since   2022-2-17
  */
 
 class LoggingCompany {
